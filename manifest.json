@@ -1,3 +1,12 @@
 {
+    "manifest_version": 3,
+    "name": "MangaReader",
+    "version": "0.1",
+
     
+    "action": {
+        "default_area": "navbar",
+        "default_icon": "./imgs/icon.png",
+        "default_popup": "./index.html"
+    }
 }
