@@ -2,11 +2,14 @@
     "manifest_version": 3,
     "name": "MangaReader",
     "version": "0.1",
-
+    "author": "Levi Ricardo",
+    
+    /* Provavelmente será necessário adicionar um background script para ouvir e executar os comandos de atalho */
     
     "action": {
         "default_area": "navbar",
         "default_icon": "./imgs/icon.png",
-        "default_popup": "./index.html"
+        "default_popup": "./index.html",
+        "default_title": "MangaReader"
     }
 }
