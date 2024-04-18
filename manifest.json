@@ -3,6 +3,11 @@
     "name": "MangaReader",
     "version": "0.1",
     "author": "Levi Ricardo",
+    "description": "Uma extensão pra ajudar a ler mangá",
+
+    "permissions": [
+        "activeTab"
+    ],
     
     /* Provavelmente será necessário adicionar um background script para ouvir e executar os comandos de atalho */
     
