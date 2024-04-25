@@ -1,0 +1,3 @@
+/*onclick add event listener keydown
+store key
+stop event listener*/
