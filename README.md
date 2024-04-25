@@ -30,3 +30,5 @@ Os botões dos itens 4 e 6 devem mostrar a tecla de atalho atual.
 /* Talvez precise lidar com comandos, apesar de eu achar improvável. De qualquer forma, tô anotando só por garantia. link: https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json/commands*/
 
 /* Muito provavelmente o content script fará a execução do comando, enquanto o background script fará o salvamento dos comandos e gerenciará o popup. link: https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Content_scripts*/
+
+/* Provavelmente o on mouse over event ajuda a descobrir o elemento a ser salvo */

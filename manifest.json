@@ -7,7 +7,8 @@
 
     "permissions": [
         "activeTab",
-        "background"
+        "background",
+        "storage"
     ],
     
     "action": {
