@@ -6,7 +6,9 @@
     "description": "Uma extensão pra ajudar a ler mangá",
 
     "permissions": [
-        "activeTab"
+        "activeTab",
+        "background",
+        "storage"
     ],
     
     "action": {
