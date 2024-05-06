@@ -7,10 +7,13 @@
 
     "permissions": [
         "activeTab",
-        "background",
         "storage"
     ],
     
+    "background": {
+        "scripts": ["./background.js"]
+    },
+
     "action": {
         "default_area": "navbar",
         "default_icon": "./imgs/icon.png",
