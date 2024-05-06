@@ -25,6 +25,8 @@ Onde
 
 Os botões dos itens 4 e 6 devem mostrar a tecla de atalho atual.
 
+Anotações
+    
 /* Provavelmente será necessário adicionar um background script para ouvir e executar os comandos de atalho. link: https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json/background */
 
 /* Talvez precise lidar com comandos, apesar de eu achar improvável. De qualquer forma, tô anotando só por garantia. link: https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json/commands*/
