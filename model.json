@@ -2,7 +2,7 @@
     "url":{
         "next": "a, rel=prev",
         "prev": "a, rel=next",
-        "netxt_key": "keycode",
+        "next_key": "keycode",
         "prev_key": "keycode"
     }
 }

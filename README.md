@@ -1,3 +1,8 @@
+- [MangaReader](#mangareader)
+- [Características Básicas](#características-básicas)
+  - [Estrutura Básica](#estrutura-básica)
+
+
 # MangaReader
 
 É um projeto simples de uma extensão para Firefox que, à comando do usuário, irá detectar o elemento html clicado e salvará a tag, classe e id (se houver) em um JSON junto da URL da página. Dessa forma, pretendo permitir que o usuário atribua teclas para passar e voltar páginas. Imagino que já exista algo assim feito mais profissionalmente mas eu quero um meu feito especificamente pros sites ~~piratas~~ de mangá.
